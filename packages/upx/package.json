@@ -9,11 +9,11 @@
 		"semver",
 		"exec"
 	],
-	"homepage": "https://github.com/repobuddy/upx#readme",
-	"bugs": "https://github.com/repobuddy/upx/issues",
+	"homepage": "https://spikyuni.github.io/upx/",
+	"bugs": "https://github.com/spikyuni/upx/issues",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/repobuddy/upx.git",
+		"url": "git+https://github.com/spikyuni/upx.git",
 		"directory": "packages/upx"
 	},
 	"license": "MIT",

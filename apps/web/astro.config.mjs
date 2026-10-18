@@ -3,14 +3,14 @@ import starlight from '@astrojs/starlight'
 import { defineConfig } from 'astro/config'
 
 export default defineConfig({
-	site: 'https://repobuddy.github.io',
+	site: 'https://spikyuni.github.io',
 	base: '/upx',
 	integrations: [
 		starlight({
 			title: 'upx',
 			description:
 				'A local-first package runner — resolve a semver range against installs that already exist and run them directly, falling back to npx.',
-			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/repobuddy/upx' }],
+			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/spikyuni/upx' }],
 			sidebar: [
 				{
 					label: 'Getting Started',

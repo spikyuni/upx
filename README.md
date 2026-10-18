@@ -1,6 +1,6 @@
 # upx
 
-[![CI](https://github.com/cyber-civitas/upx/actions/workflows/ci.yml/badge.svg)](https://github.com/cyber-civitas/upx/actions/workflows/ci.yml)
+[![CI](https://github.com/spikyuni/upx/actions/workflows/ci.yml/badge.svg)](https://github.com/spikyuni/upx/actions/workflows/ci.yml)
 [![npm](https://img.shields.io/npm/v/@repobuddy/upx)](https://www.npmjs.com/package/@repobuddy/upx)
 [![License](https://img.shields.io/npm/l/@repobuddy/upx)](LICENSE)
 
@@ -30,7 +30,7 @@ times per run spends seconds of its wall clock inside the runner.
 
 <sub>Node 26.7.0, npm 12.0.2, warm cache, median of 21 runs against `gherkin-cli`. Older claims of a
 10× win were measured against a much slower npm — see
-[Measurements](https://repobuddy.github.io/upx/concepts/measurements/) for the method, and re-run it
+[Measurements](https://spikyuni.github.io/upx/concepts/measurements/) for the method, and re-run it
 before quoting it.</sub>
 
 Matching a **range** rather than an exact version is the point: one global install serves every
@@ -95,7 +95,7 @@ installed version to check a tag against.
 
 ## Documentation
 
-[repobuddy.github.io/upx](https://repobuddy.github.io/upx) — the measurements and their method, the
+[spikyuni.github.io/upx](https://spikyuni.github.io/upx) — the measurements and their method, the
 full resolution algorithm, and the tradeoffs in detail.
 
 ## Naming
