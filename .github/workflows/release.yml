@@ -9,7 +9,7 @@ permissions: {}
 jobs:
   # npm trusted publishing names this file, release.yml. Keep the filename.
   release:
-    uses: cyber-civitas/.github/.github/workflows/pnpm-release.yml@v1
+    uses: spikyuni/.github/.github/workflows/pnpm-release.yml@v1
     permissions:
       contents: write
       pull-requests: write
