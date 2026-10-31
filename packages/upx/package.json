@@ -32,7 +32,8 @@
 		"LICENSE",
 		"README.md",
 		"bin",
-		"dist"
+		"dist",
+		"CHANGELOG.md"
 	],
 	"scripts": {
 		"build": "tsdown",
